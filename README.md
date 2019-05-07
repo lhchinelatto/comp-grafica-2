@@ -1,4 +1,4 @@
-﻿## comp-grafica-2
+﻿# Projeto Computação Gráfica II
  ---
  Luis Henrique Chinelatto 121713
  
